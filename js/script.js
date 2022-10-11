@@ -18,4 +18,7 @@ let scontoApplicato;
 let prezzoSContato;
 let prezzoFinale;
 
-if(etaPasseggero >=18 && etaPasseggero <=65 + (kmDaPercorrere * prezzoPerKm));
+if(etaPasseggero >=18 && etaPasseggero <=65 +);{
+  console.log(prezzoBiglietto);
+}
+
